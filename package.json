@@ -1,0 +1,17 @@
+{
+  "name": "data_fetching_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "npm": "^8.3.0",
+    "twitter-api-v2": "^1.7.2"
+  }
+}
